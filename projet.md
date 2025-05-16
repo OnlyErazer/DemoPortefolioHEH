@@ -13,4 +13,4 @@ Un service permettant d'obtenir les prévisions météo en temps réel.
 
 ### Projet 4 - Blog développeur
 Un blog moderne permettant de partager des articles sur le développement et la proprammation.  
-- Technologies : Next.js, Markdown, MongoDB
+- Technologies : Next.js, Markdown, MongoDB, SQLite

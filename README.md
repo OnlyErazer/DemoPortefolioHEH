@@ -17,4 +17,4 @@ Bienvenue sur mon portfolio ! Ce dépôt contient mon profil, mes projets et mes
 
 ## Nos projets
 
-Découvrez nos projets ici: [projet.md](projet.md)
+Découvrez nos projets ici: [projets](projet.md)
