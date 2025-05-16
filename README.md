@@ -11,4 +11,4 @@ Bienvenue sur mon portfolio ! Ce dépôt contient mon profil, mes projets et mes
  
 - [LinkedIn](https://www.linkedin.com/in/sacha-leclere-655059310/)
 - [GitHub](https://github.com/OnlyErazer)  
-- Email : [sacha.leclere@std.heh.b](sacha.leclere@std.heh.b)  
+- Email : [sacha.leclere@std.heh.be](sacha.leclere@std.heh.be)
